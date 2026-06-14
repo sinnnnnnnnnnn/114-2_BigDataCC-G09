@@ -34,7 +34,7 @@
 
 以下為目前 Gradio 儀表板執行畫面，包含資料來源選擇、分析欄位、測站篩選、圖表類型、資料表與視覺化圖表。
 
-![海洋環境資料儀表板系統截圖]([[file:///Users/sin/Desktop/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png](https://raw.githubusercontent.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/refs/heads/main/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png)](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png?raw=true))
+![海洋環境資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png?raw=true)
 
 
 ## 系統功能
