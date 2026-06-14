@@ -38,8 +38,8 @@
 下方分頁則能查看原始資料、清洗後資料、港口績效、航線績效與篩選後紀錄。
 
 ![航運資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/docs/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png?raw=true)
-![航運資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/docs/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png?raw=true)
-![航運資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/docs/%E6%88%AA%E5%9C%96%202026-06-14%20%E6%99%9A%E4%B8%8A10.41.57.png?raw=true)
+![航運資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/docs/%E6%88%AA%E5%9C%96%202026-06-15%20%E5%87%8C%E6%99%A83.02.55.png?raw=true)
+![航運資料儀表板系統截圖](https://github.com/sinnnnnnnnnnn/114-2_BigDataCC-G09/blob/main/docs/%E6%88%AA%E5%9C%96%202026-06-15%20%E5%87%8C%E6%99%A83.03.01.png?raw=true)
 
 
 ## 系統功能
