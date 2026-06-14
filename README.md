@@ -121,7 +121,7 @@
 | Python       | 專案主要開發語言         |
 | Pandas       | CSV 讀取、資料清洗與分組分析 |
 | NumPy        | 缺失值處理與數值運算       |
-| Matplotlib   | 資料視覺化圖表          |
+| Matplotlib   | 資料視覺化圖          |
 | Gradio       | 建立互動式 Web UI     |
 | Docker       | 容器化部署            |
 | Pytest       | 基本單元測試           |
